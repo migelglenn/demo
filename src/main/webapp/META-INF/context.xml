@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context>
+    <Resource auth="Container" defaultAutoCommit="true"
+        driverClassName="com.mysql.jdbc.Driver" initialSize="0"
+        maxActive="30" maxIdle="10" maxOpenPreparedStatements="0"
+        maxWait="10000" minIdle="0" name="jdbc/mysql-datasource" password="tester1"
+        poolPreparedStatements="false" type="javax.sql.DataSource"
+        url="jdbc:mysql://172.19.11.41:3306/tester1" username="tester1"/>
+</Context>
